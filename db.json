@@ -1,0 +1,22 @@
+{
+  "userdata": [
+    {
+      "name": "jon",
+      "age": "21",
+      "address": "india",
+      "department": "marketing",
+      "salary": "2000",
+      "maritalStatus": false,
+      "id": 1
+    },
+    {
+      "name": "doe",
+      "age": "22",
+      "address": "India",
+      "department": "it",
+      "salary": "20001",
+      "maritalStatus": true,
+      "id": 2
+    }
+  ]
+}
